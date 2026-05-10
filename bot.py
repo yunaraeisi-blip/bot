@@ -4,7 +4,7 @@ import g4f
 import sympy
 import yt_dlp
 import asyncio
-
+token_here = input("enter your token:")
 # =========================
 # bot setup
 # =========================
