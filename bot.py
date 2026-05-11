@@ -160,4 +160,4 @@ async def play(ctx, *, query):
         except Exception as e:
             print("play error:", e)
             await ctx.send(f"error: {e}")
-bot.run("gf156")
+bot.run(gf156)
